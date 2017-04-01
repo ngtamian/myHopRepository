@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>tam.it.com</groupId>
+  <artifactId>myHop</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>myHop</name>
+  <description>myHop</description>
+  <modules>
+  	<module>myHop-shared</module>
+  	<module>myHop-ejb</module>
+  </modules>
+</project>
